@@ -33,9 +33,13 @@ This system creates detailed, accurate descriptions for images by combining powe
 
 
  
-![Screenshot 2024-11-12 210731](https://github.com/user-attachments/assets/0e7af293-835a-4dd1-8373-19f5645bfdec)
-![Screenshot 2024-11-12 210622](https://github.com/user-attachments/assets/cfe1a9f0-6331-4716-a37e-ac05e57dd535)
+
+
 ![Screenshot 2024-11-12 204855](https://github.com/user-attachments/assets/1fe8556d-d5ef-4a54-bcad-35930246c934)
+
+![Screenshot 2024-11-12 210622](https://github.com/user-attachments/assets/cfe1a9f0-6331-4716-a37e-ac05e57dd535)
+
+![Screenshot 2024-11-12 210731](https://github.com/user-attachments/assets/0e7af293-835a-4dd1-8373-19f5645bfdec)
 
 
 
